@@ -1,0 +1,14 @@
+{
+  "name": "solution",
+  "version": "1.0.0",
+  "description": "solution to excircise",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinay Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
